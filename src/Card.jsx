@@ -1,4 +1,4 @@
-function Card(details) {
+function Card({details}) {
     return (
       <div className="col-lg-4">
         <div className="card mb-5 mb-lg-0">
